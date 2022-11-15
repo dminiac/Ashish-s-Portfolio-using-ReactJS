@@ -1,0 +1,27 @@
+@import "../../../style-config/variable.scss";
+@import "../../../style-config/mixins.scss";
+
+.filter-menu-items {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    list-style-type: none;
+    margin: 30px 0;
+    .filter-menu-item {
+        color: $white;
+        @include typography(22px, 400, 28px);
+        padding: 10px 20px;
+        margin: 0 2.5px;
+        box-shadow: inset 0 0 0 0 $white;
+        transition: color 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+        cursor: pointer;
+        &:hover,
+        &.active {
+            box-shadow: inset 200px 0 0 0 $white;
+            color: $black;
+        }
+    }
+}
