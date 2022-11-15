@@ -2,7 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Below are some of the screenshots of the React App with the features added :
+
+<img width="947" alt="ash1" src="https://user-images.githubusercontent.com/53075286/201857068-00422a7f-c113-4ea3-9e9c-55bb6e457776.png">
+<img width="949" alt="ash2" src="https://user-images.githubusercontent.com/53075286/201857078-7808da0c-c859-4226-b068-cfab7214c7cd.png">
+<img width="947" alt="ash3" src="https://user-images.githubusercontent.com/53075286/201857083-e89c4421-59fa-475f-b229-6226b44c9425.png">
+<img width="947" alt="ash4" src="https://user-images.githubusercontent.com/53075286/201857044-e5dd2055-db16-4a93-aaa0-e8efce93aa07.png">
+<img width="947" alt="ash5" src="https://user-images.githubusercontent.com/53075286/201857064-c9b17a48-a3f8-45bd-b528-42be9d522251.png">
+<img width="946" alt="ash6" src="https://user-images.githubusercontent.com/53075286/201857065-c82ce929-1c36-424f-9e93-f29362270323.png">
 
 In the project directory, you can run:
 
